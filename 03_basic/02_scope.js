@@ -1,4 +1,4 @@
-//var c = 300
+//var b = 300
 let a = 300
 if (true) {
     let a = 10
